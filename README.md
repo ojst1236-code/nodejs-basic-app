@@ -1,3 +1,6 @@
+## 📚 Aprendizaje
+Este proyecto me permitió fortalecer conocimientos en administración de servidores Linux y despliegue de aplicaciones.
+
 # 🚀 Aplicación básica en Node.js
 
 Servidor HTTP básico desarrollado en Node.js.
