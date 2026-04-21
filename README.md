@@ -1,12 +1,16 @@
-# 🚀 Aplicación básica Node.js
+# 🚀 Aplicación básica en Node.js
 
-Aplicación simple para crear un servidor HTTP en Node.js.
+Servidor HTTP básico desarrollado en Node.js.
 
-## ⚙️ Tecnologías
-- Node.js
+## 🎯 Funcionalidad
+- Levanta un servidor en el puerto 4000
+- Responde con mensaje al navegador
 
 ## ▶️ Ejecución
 node app.js
 
-## 🌐 Puerto
-4000
+## 🌐 Acceso
+http://localhost:4000
+
+## 📌 Tecnologías
+- Node.js
